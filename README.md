@@ -1,3 +1,3 @@
 Hi I'm Kyaw Zaya
 
-Some description!
+currently I'm studying in programming!
